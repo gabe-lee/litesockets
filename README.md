@@ -1,2 +1,2 @@
 # litesockets
-Simple wrapper over "net" package
+Simple wrapper over "net" package using tcp
